@@ -1,0 +1,30 @@
+{
+  "name": "microservice_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maiPhuongLam/microservice_nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maiPhuongLam/microservice_nodejs/issues"
+  },
+  "homepage": "https://github.com/maiPhuongLam/microservice_nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "micromq": "^3.0.2",
+    "moment": "^2.29.4",
+    "mongodb": "^6.2.0",
+    "mongoose": "^8.0.0",
+    "pino": "^8.16.1",
+    "pino-pretty": "^10.2.3",
+    "redis": "^4.6.10"
+  }
+}
